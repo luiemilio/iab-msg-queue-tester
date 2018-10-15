@@ -1,0 +1,16 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "sender",
+        "url": "http://localhost:5555/sender.html",
+        "uuid": "sender",
+        "applicationIcon": "http://localhost:5555/favicon.ico",
+        "autoShow": true,
+        "saveWindowState": true
+    },
+    "runtime": {
+        "arguments": "--v=1",
+        "version": "7.53.23.16"
+    },
+    "shortcut": {}
+}
