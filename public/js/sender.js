@@ -39,7 +39,7 @@ function onMain() {
             if (counter <= msgs) {
                 setTimeout(() => {
                     sendMsg(counter, msgs);
-                }, 200);
+                }, 1);
             }
         }
         sendMsg(counter);
